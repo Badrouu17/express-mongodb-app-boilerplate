@@ -1,3 +1,12 @@
-# EXPRESS APP BOILERPLATE
+## EXPRESS APP BOILERPLATE
 
-This is a boilerplate project starter for an express app using modern technologies: node.js, express, mongoDB, mongoose.
+This is a boilerplate project starter for an express app using modern technologies: Node.js, Express, MongoDB, Mongoose.
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm run server`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
