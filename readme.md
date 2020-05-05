@@ -1,4 +1,4 @@
-## EXPRESS APP BOILERPLATE
+## EXPRESS + MONGODB BOILERPLATE
 
 This is a boilerplate project starter for an express app using modern technologies: Node.js, Express, MongoDB, Mongoose.
 
